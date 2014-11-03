@@ -27,6 +27,10 @@ body {
     margin: auto;
 }
 
+hgroup{
+    padding-top: 2em;
+}
+
 h1 {
     font-size: :3em;
     line-height: 1;
@@ -42,3 +46,4 @@ h2 {
 article{
 
 }
+
