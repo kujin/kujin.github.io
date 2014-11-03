@@ -1,5 +1,7 @@
 /* BASIC SETUP */
+@import url(http://fonts.googleapis.com/css?family=Oswald:300);
 @import url(http://fonts.googleapis.com/css?family=Exo);
+
 * {
     margin: 0;
     padding: 0;
@@ -31,19 +33,21 @@ hgroup{
 }
 
 h1 {
-    font-size: :3em;
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
     line-height: 1;
     margin-bottom: 0.5em;
 }
 
 h2 {
+    margin-left: 0.5em;
     font-size: :2em;
     line-height: 1;
     margin-bottom: 0.5em;
 }
 article {
-        margin-bottom: 0.5em;
-
+    margin-left: 1em;
+    margin-bottom: 0.5em;
 }
 
 article time{
