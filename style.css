@@ -72,3 +72,10 @@ article section{
     border-color:rgba(255,255,255,0.1);
 }
 
+footer{
+    position:absolute;
+    bottom:0;
+    width: 90%;
+    height:2em;
+    text-align: center;
+}
