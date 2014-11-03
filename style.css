@@ -1,11 +1,10 @@
 /* BASIC SETUP */
-
+@import url(http://fonts.googleapis.com/css?family=Exo);
 * {
     margin: 0;
     padding: 0;
     font-weight: normal;
     outline: none;
-    line-height: 150%;
 }
 
 a {text-decoration: none}
@@ -42,8 +41,30 @@ h2 {
     line-height: 1;
     margin-bottom: 0.5em;
 }
+article {
+        margin-bottom: 0.5em;
 
-article{
+}
 
+article time{
+    display: block;
+    width:8em;
+    padding: 0.5em;
+    text-align: center;
+    border-style:solid;
+    border-width:1px;
+    border-color:rgba(255,255,255,0.1);
+    font-family: 'Exo', sans-serif;
+    font-size: 1em;
+    line-height: 1;
+}
+
+article section{
+    font-size: 1em;
+    margin-left: 2em;
+    padding: 0.5em;
+    border-style:solid;
+    border-width:1px;
+    border-color:rgba(255,255,255,0.1);
 }
 
