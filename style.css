@@ -35,9 +35,9 @@ body {
     }
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 900px){
     body{
-        font-size: 24px;
+        font-size: 18px;
         width: 45em;
     }
 }
