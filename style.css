@@ -21,11 +21,17 @@ html{
 
 body {
     -webkit-text-size-adjust: 100%;
-    font-size: 2vw;
+    font-size: 12px;
     color: #FFF;
     background: #006;
     width: 90%;
     margin: auto;
+}
+
+@media screen and (min-width: 600px){
+    body{
+        font-size: 2vw;
+    }
 }
 
 hgroup{
