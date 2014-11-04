@@ -21,7 +21,7 @@ html{
 
 body {
     -webkit-text-size-adjust: 100%;
-    font-size: 12px;
+    font-size: 2vw;
     color: #FFF;
     background: #006;
     width: 90%;
@@ -70,6 +70,10 @@ article section{
     border-style:solid;
     border-width:1px;
     border-color:rgba(255,255,255,0.1);
+}
+
+article p {
+    margin-bottom: 1.0em;
 }
 
 footer{
