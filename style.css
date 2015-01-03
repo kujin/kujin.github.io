@@ -59,6 +59,32 @@ h2 {
     line-height: 1;
     margin-bottom: 0.5em;
 }
+
+nav {
+    margin-left: 1.0em;
+}
+
+nav li {
+    list-style-type:none;
+    display: inline;
+    float: left;
+}
+
+nav li a {
+    color: #FFF;
+    background-color: #339;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    width: 8em;
+    height: 2.0em;
+}
+
+nav li a:hover{
+    background-color: #66F;
+}
+
 article {
     margin-left: 1em;
     margin-bottom: 0.5em;
