@@ -22,8 +22,8 @@ html{
 body {
     -webkit-text-size-adjust: 100%;
     font-size: 12px;
-    color: #FFF;
-    background: #006;
+    color: #000;
+    background: #FFF;
     width: 90%;
     margin: auto;
 }
@@ -71,8 +71,8 @@ nav li {
 }
 
 nav li a {
-    color: #FFF;
-    background-color: #339;
+    color: #000;
+    background-color: #999;
     text-align: center;
     vertical-align: middle;
     font-family: 'Oswald', sans-serif;
@@ -82,7 +82,7 @@ nav li a {
 }
 
 nav li a:hover{
-    background-color: #66F;
+    background-color: #CCC;
 }
 
 article {
