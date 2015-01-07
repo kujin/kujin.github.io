@@ -62,7 +62,6 @@ h2 {
 
 nav {
     margin-left: 1.0em;
-    margin-bottom: 1.0em;
 }
 
 nav li {
@@ -88,6 +87,7 @@ nav li a:hover{
 
 article {
 	clear: left;
+    margin-top: 4em;
     margin-left: 1em;
     margin-bottom: 0.5em;
 }
